@@ -1,5 +1,7 @@
 public class skillDemo2{
 
-//hello
+    public static int add(int a, int b){
+        return a+b;
+    }
 
 }
